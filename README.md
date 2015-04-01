@@ -1,4 +1,4 @@
-##Theory of Computation
+##Theory of Computation - Homework3
 -------------------------------------------------------
 ####Filename   :
 >TocHw3.java
